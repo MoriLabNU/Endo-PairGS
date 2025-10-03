@@ -1,3 +1,3 @@
 # Endo-PairGS
 
-## The codes and data will be release soon!
+## The codes and data will be released soon!
