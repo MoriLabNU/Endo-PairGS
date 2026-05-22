@@ -9,14 +9,17 @@
 <a href='https://doi.org/10.1007/s11548-026-03707-y'><img src='https://img.shields.io/badge/Paper-OpenAccess-green'></a>
 
 ![Architecture](assets/arch.svg)
+
+-----
+
 <img src='https://img.shields.io/badge/3D Gaussians-green'> 
 
 <video src="https://github.com/user-attachments/assets/52ae7500-accf-4fbf-89d8-d7e06c731a29" controls="true" width="100"></video> 
-
+---
 <img src='https://img.shields.io/badge/Static point cloud-red'> 
 
 <video src="https://github.com/user-attachments/assets/0ed6063b-1a57-401a-88f3-f140cc193130" controls="true" width="100"></video>
-
+---
 <img src='https://img.shields.io/badge/Dynamic reconstruction-orange'> 
 
 <video src="https://github.com/user-attachments/assets/3f880201-7ad3-45b1-b636-f0a1fd172a3e" controls="true" width="100"></video>
