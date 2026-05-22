@@ -12,23 +12,17 @@
 
 -----
 
+<img src="assets/Media1.gif" width="290">
+&ensp; &ensp; 
+<img src="assets/Media2.gif" width="290">
+&ensp; &ensp; 
+<img src="assets/Media3.gif" width="300">
+
 <img src='https://img.shields.io/badge/3D Gaussians-green'> 
-
-https://github.com/MoriLabNU/Endo-PairGS/tree/main/assets/Media1.mp4
-
------
-
 <img src='https://img.shields.io/badge/Static point cloud-red'> 
-
-https://github.com/MoriLabNU/Endo-PairGS/tree/main/assets/Media2.mp4
-
------
-
 <img src='https://img.shields.io/badge/Dynamic reconstruction-orange'> 
 
-https://github.com/MoriLabNU/Endo-PairGS/tree/main/assets/Media3.mp4
-
-
+-----
 </div>
 
 Offical implementation of `Endo-PairGS: pair priors for dynamic endoscopic scene reconstruction`, a self-supervised framework for dynamic endoscopic scene reconstruction.
