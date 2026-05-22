@@ -10,11 +10,11 @@
 
 ![Architecture](assets/arch.svg)
 
-<video src="assets/Media1.mp4" controls="true" width="300"></video> 
+<video src="https://github.com/MoriLabNU/Endo-PairGS/blob/main/assets/Media1.mp4" controls="true" width="300"></video> 
 &nbsp;&nbsp;
-<video src="assets/Media2.mp4" controls="true" width="300"></video>
+<video src="https://github.com/MoriLabNU/Endo-PairGS/blob/main/assets/Media2.mp4" controls="true" width="300"></video>
 &nbsp;&nbsp;
-<video src="assets/Media3.mp4" controls="true" width="300"></video>
+<video src="https://github.com/MoriLabNU/Endo-PairGS/blob/main/assets/Media3.mp4" controls="true" width="300"></video>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='https://img.shields.io/badge/3D Gaussians-green'> 
