@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=4 PYTHONPATH='.'  python metrics.py --model_path "/suedata1/Free/xkangyu/mycodes/deform3dgs/output/endonerf/stereomis_p1_1" -p test

@@ -1,0 +1,20 @@
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p1_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_1_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_1_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_2_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_5_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_4_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_6_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_6_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_6_3 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_7_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_7_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_8_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_8_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_8_3 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_8_4 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_8_5 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p3_1 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p3_2 --rgb_paths images
+python scripts/pre_dam_dep.py --dataset_root /suedata1/Free/xkangyu/data/dynamic_endo_scene/stereomis_p2_1_5 --rgb_paths images
+
