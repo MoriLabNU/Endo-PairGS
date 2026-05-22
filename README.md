@@ -12,17 +12,17 @@
 
 -----
 
-<img src="assets/Media1.gif" width="195">
+<img src="assets/Media1.gif" width="210">
 &ensp; &ensp; 
-<img src="assets/Media2.gif" width="195">
+<img src="assets/Media2.gif" width="210">
 &ensp; &ensp; 
-<img src="assets/Media3.gif" width="200">
+<img src="assets/Media3.gif" width="220">
 
 &ensp; &ensp;&ensp; &ensp;
 <img src='https://img.shields.io/badge/3D Gaussians-green'> 
-&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
+&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
 <img src='https://img.shields.io/badge/Static point cloud-red'> 
-&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
+&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; 
 <img src='https://img.shields.io/badge/Dynamic reconstruction-orange'> 
 
 -----
