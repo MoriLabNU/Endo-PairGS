@@ -22,7 +22,7 @@
 <img src='https://img.shields.io/badge/3D Gaussians-green'> 
 &ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
 <img src='https://img.shields.io/badge/Static point cloud-red'> 
-&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; 
+&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;&ensp; &ensp;
 <img src='https://img.shields.io/badge/Dynamic reconstruction-orange'> 
 
 -----
